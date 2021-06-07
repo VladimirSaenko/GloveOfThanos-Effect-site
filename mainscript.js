@@ -1,9 +1,9 @@
 
 "use strict";
 
-
 const banner = document.getElementsByClassName('banner')[0];
 const blocks = document.getElementsByClassName('blocks');
+const section = document.querySelector('section');
 
 for(let i = 1; i < 400; i++) {
     banner.innerHTML += "<div class='blocks'></div>";
@@ -12,7 +12,6 @@ for(let i = 1; i < 400; i++) {
     blocks[i].style.animationDelay = duration + 's';
 }
 
-const section = document.querySelector('section');
 setTimeout(function() {
     section.classList.add('active');
 }, 13500);
