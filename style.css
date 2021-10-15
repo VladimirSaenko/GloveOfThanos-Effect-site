@@ -73,7 +73,7 @@ section h2 {
     }
 }
 
-section.active .banner .blocks{
+section.active .banner .blocks {
     animation: animateTwo 2s ease-in-out forwards;
     background: url(bg.jpg);
     background-position: center;
