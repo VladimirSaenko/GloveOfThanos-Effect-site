@@ -14,6 +14,6 @@
 
 ### }
 
-### Второй сайт: https://vladimirsaenko.github.io/GloveOfThanos-Effect-site2/
+## Второй сайт: https://vladimirsaenko.github.io/GloveOfThanos-Effect-site2/
 
-### Portfolio: https://vladimirsaenko.github.io/Portfolio-2/sites/site-26/GloveOfThanos/index.html
+## Portfolio: https://vladimirsaenko.github.io/Portfolio-2/sites/site-26/GloveOfThanos/index.html
