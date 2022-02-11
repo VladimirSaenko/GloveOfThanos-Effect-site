@@ -15,4 +15,4 @@ for(let i = 1; i < 400; i++) {
 setTimeout(function() {
     section.classList.add('active');
     location.reload();
-}, 13500);
+}, 15000);
