@@ -12,7 +12,7 @@ for(let i = 1; i < 400; i++) {
     blocks[i].style.animationDelay = duration + 's';
 }
 
-setTimeout(function() {
-    section.classList.add('active');
-    location.reload();
-}, 15000);
+// setTimeout(function() {
+//     section.classList.add('active');
+//     location.reload();
+// }, 15000);
