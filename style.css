@@ -49,7 +49,7 @@ section h2 {
     height: 100vh;
     border-radius: 5px;
     animation: animate 2s ease-in-out forwards;
-	clip-path: inset(0 90% 90% 0);
+    clip-path: inset(0 90% 90% 0);
 }
 
 @keyframes animate {
