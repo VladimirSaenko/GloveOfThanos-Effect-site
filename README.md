@@ -9,4 +9,4 @@
 
 ## Part Two: https://vladimirsaenko.github.io/GloveOfThanos-Effect-site2/
 
-## Portfolio: https://vladimirsaenko.github.io/Portfolio-2/sites/site-26/GloveOfThanos-Effect-site/index.html
+## Portfolio: https://vladimirsaenko.github.io/Portfolio-2/sites/site-22/GloveOfThanos-Effect-site/index.html
